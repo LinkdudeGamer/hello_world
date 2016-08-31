@@ -1,2 +1,3 @@
 # hello_world
-A simple Hello World Project
+This is a simple Hello World Program that i'm coding in Python.
+Its noting too special at the moment...
